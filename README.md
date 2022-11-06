@@ -9,6 +9,8 @@ Then, you have to create a conda environment according to the environment file i
 
 ` conda env create -f environment.yml `
 
+*This file needs to be updated so that you won't get errors during the installation -> WIP*
+
 ## License
 
 This work is dual-licensed under MPL-2.0 and MIT.
@@ -23,6 +25,8 @@ All other files that don't have this boilerplate are licensed under the MIT lice
     - https://github.com/ParrotPrediction/openai-envs
 
 ## How to set up experiments with Ray
+
+Be sure to have Ray installed ;)
 
 Currently only available with :
 - MazeBenchBeacs_Ray.ipynb
